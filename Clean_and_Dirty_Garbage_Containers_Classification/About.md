@@ -1,1 +1,1 @@
-The codes in this study have been prepared for the relevant "Determining the fullness of garbage containers by deep learning".
+<p>The codes in this study were prepared for the article <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423000453">"Determining the fullness of garbage containers by deep learning"</a> .</p>
