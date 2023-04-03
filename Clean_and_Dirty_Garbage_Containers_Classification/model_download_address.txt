@@ -1,2 +1,1 @@
-The directory where the most successful models can be downloaded with 448*448 crop size:
-https://drive.google.com/drive/folders/1e9tXlbg8rn0lM2aoNPjGX2yOTEaWMdqX?usp=sharing
+<a href="https://drive.google.com/drive/folders/1e9tXlbg8rn0lM2aoNPjGX2yOTEaWMdqX?usp=sharing">Directory</a> where the most successful models trained (for image size 448*448) can be downloaded.
