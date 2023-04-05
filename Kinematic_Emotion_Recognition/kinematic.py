@@ -1,5 +1,5 @@
 
-# Example testing of models trained by us for emotion recognition
+# Example evaluating of models trained by us for emotion recognition
 # from kinematic dataset on randomly selected samples
 import os
 import pickle
