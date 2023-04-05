@@ -15,7 +15,7 @@ print(device)
 
 batch_size = 16
 
-example_datasets = r"C:\Users\OGUZ\PycharmProjects\Kynematic_Ev\Example datasets\\"
+example_datasets = r".\Example datasets\\"
 all_datasets = os.listdir(example_datasets)
 """
 #example_datasets#
@@ -25,7 +25,7 @@ In other words, 12 small new data sets were prepared in total. Each dataset has 
 In total, there are 700 files in each dataset.
 """
 
-trained_CNN_DL_Models = r"C:\Users\OGUZ\PycharmProjects\Kynematic_Ev\Trained DL Models\\"
+trained_CNN_DL_Models = r".\Trained DL Models\\"
 all_model_files = os.listdir(trained_CNN_DL_Models)
 """
 The "trained_CNN_DL_Models" file contains 24 models containing the trained models of 
